@@ -13,5 +13,32 @@
 9.Removeouterprentheses
 10.Largestnumatleasttwiceofothers
 
+28-11-2023 - 250 lines of code
+
+1.NumSubArrayProductLessThanK
+2.Binarysearch
+3.FindLengthOfLCIS1
+4.isSubsequence
+5.ReverseString
+6.AddDigits
+7.SelfDividingNumbers
+8.AsteroidCollision
+9.Partition
+10.Threesum
+
+29-11-2023 - 200 lines of code
+
+1.Assigncookies
+2.Foursum
+3.ContainDuplicate
+4.NoOfBoomerangs
+5.KthLargest
+6.Singlenumber
+7.Maxprofit
+8.MaxArea
+9.RemoveElement
+10.LastWord
+
+
 
 
