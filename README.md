@@ -39,6 +39,20 @@
 9.RemoveElement
 10.LastWord
 
+30-11-2023 - 250 lines of code
+
+1.UniquePaths
+2.Triangle
+3.SortColors
+4.PlusOne
+5.HouseRob
+6.NearbyDuplicate
+7.IntegerBreak
+8.SubArrayLen
+9.OneBitCharacter
+10.Anagrams
+
+
 
 
 
